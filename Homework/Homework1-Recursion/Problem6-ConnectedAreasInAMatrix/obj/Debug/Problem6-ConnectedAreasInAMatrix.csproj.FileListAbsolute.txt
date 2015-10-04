@@ -1,0 +1,6 @@
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem6-ConnectedAreasInAMatrix\bin\Debug\Problem6-ConnectedAreasInAMatrix.exe.config
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem6-ConnectedAreasInAMatrix\bin\Debug\Problem6-ConnectedAreasInAMatrix.exe
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem6-ConnectedAreasInAMatrix\bin\Debug\Problem6-ConnectedAreasInAMatrix.pdb
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem6-ConnectedAreasInAMatrix\obj\Debug\Problem6-ConnectedAreasInAMatrix.csprojResolveAssemblyReference.cache
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem6-ConnectedAreasInAMatrix\obj\Debug\Problem6-ConnectedAreasInAMatrix.exe
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem6-ConnectedAreasInAMatrix\obj\Debug\Problem6-ConnectedAreasInAMatrix.pdb

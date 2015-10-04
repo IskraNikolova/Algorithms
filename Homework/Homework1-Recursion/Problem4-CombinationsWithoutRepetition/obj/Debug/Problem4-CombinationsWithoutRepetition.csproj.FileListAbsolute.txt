@@ -1,0 +1,6 @@
+E:\Softuni\Algorithms\Homework1-Recursion\Problem4-CombinationsWithoutRepetition\bin\Debug\Problem4-CombinationsWithoutRepetition.exe.config
+E:\Softuni\Algorithms\Homework1-Recursion\Problem4-CombinationsWithoutRepetition\bin\Debug\Problem4-CombinationsWithoutRepetition.exe
+E:\Softuni\Algorithms\Homework1-Recursion\Problem4-CombinationsWithoutRepetition\bin\Debug\Problem4-CombinationsWithoutRepetition.pdb
+E:\Softuni\Algorithms\Homework1-Recursion\Problem4-CombinationsWithoutRepetition\obj\Debug\Problem4-CombinationsWithoutRepetition.exe
+E:\Softuni\Algorithms\Homework1-Recursion\Problem4-CombinationsWithoutRepetition\obj\Debug\Problem4-CombinationsWithoutRepetition.pdb
+E:\Softuni\Algorithms\Homework1-Recursion\Problem4-CombinationsWithoutRepetition\obj\Debug\Problem4-CombinationsWithoutRepetition.csprojResolveAssemblyReference.cache

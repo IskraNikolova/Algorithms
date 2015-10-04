@@ -1,0 +1,9 @@
+E:\Softuni\Algorithms\Homework1-Recursion\Problem1-TowerОfHanoi\bin\Debug\Problem1-TowerОfHanoi.exe.config
+E:\Softuni\Algorithms\Homework1-Recursion\Problem1-TowerОfHanoi\bin\Debug\Problem1-TowerОfHanoi.exe
+E:\Softuni\Algorithms\Homework1-Recursion\Problem1-TowerОfHanoi\bin\Debug\Problem1-TowerОfHanoi.pdb
+E:\Softuni\Algorithms\Homework1-Recursion\Problem1-TowerОfHanoi\obj\Debug\Problem1-TowerОfHanoi.csprojResolveAssemblyReference.cache
+E:\Softuni\Algorithms\Homework1-Recursion\Problem1-TowerОfHanoi\obj\Debug\Problem1-TowerОfHanoi.exe
+E:\Softuni\Algorithms\Homework1-Recursion\Problem1-TowerОfHanoi\obj\Debug\Problem1-TowerОfHanoi.pdb
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem1-TowerОfHanoi\bin\Debug\Problem1-TowerОfHanoi.exe.config
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem1-TowerОfHanoi\obj\Debug\Problem1-TowerОfHanoi.exe
+E:\Softuni\Algorithms\Homework\Homework1-Recursion\Problem1-TowerОfHanoi\obj\Debug\Problem1-TowerОfHanoi.pdb
