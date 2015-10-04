@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6898FCC1-2354-4F6B-BC8C-1DC9D7797D6B}</ProjectGuid>
+    <ProjectGuid>{4827C1FD-769E-4EE6-8D4D-87BD519ECADE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Problem2_GeneratePermutationsIteratively</RootNamespace>
-    <AssemblyName>Problem2-GeneratePermutationsIteratively</AssemblyName>
+    <RootNamespace>Problem3_GenerateCombinationsIteratively</RootNamespace>
+    <AssemblyName>Problem3_GenerateCombinationsIteratively</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GeneratePermutationsIteratively.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
