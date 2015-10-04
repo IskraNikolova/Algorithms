@@ -7,11 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1-PermutationsWithou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5-PermutationsWithRepetition", "Problem5-PermutationsWithRepetition\Problem5-PermutationsWithRepetition.csproj", "{B8A3297A-41A0-4E8A-90E5-6498ECD6EE0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2-.GeneratePermutationsIteratively", "Problem2-.GeneratePermutationsIteratively\Problem2-.GeneratePermutationsIteratively.csproj", "{3C14135B-1CEC-43DB-A203-52F9AF944ED8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3-GenerateCombinationsIteratively", "Problem3-GenerateCombinationsIteratively\Problem3-GenerateCombinationsIteratively.csproj", "{CFD8B10A-05D4-40DD-A2CB-1B1D3DE2DBE4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4-GenerateSubsetsOfStringArray", "Problem4-GenerateSubsetsOfStringArray\Problem4-GenerateSubsetsOfStringArray.csproj", "{A0340188-D632-4FCD-A330-6FFC12275B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2-GeneratePermutationsIteratively", "Problem2-GeneratePermutationsIteratively\Problem2-GeneratePermutationsIteratively.csproj", "{6898FCC1-2354-4F6B-BC8C-1DC9D7797D6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,18 +25,14 @@ Global
 		{B8A3297A-41A0-4E8A-90E5-6498ECD6EE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8A3297A-41A0-4E8A-90E5-6498ECD6EE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8A3297A-41A0-4E8A-90E5-6498ECD6EE0C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C14135B-1CEC-43DB-A203-52F9AF944ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C14135B-1CEC-43DB-A203-52F9AF944ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C14135B-1CEC-43DB-A203-52F9AF944ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C14135B-1CEC-43DB-A203-52F9AF944ED8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CFD8B10A-05D4-40DD-A2CB-1B1D3DE2DBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CFD8B10A-05D4-40DD-A2CB-1B1D3DE2DBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CFD8B10A-05D4-40DD-A2CB-1B1D3DE2DBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CFD8B10A-05D4-40DD-A2CB-1B1D3DE2DBE4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A0340188-D632-4FCD-A330-6FFC12275B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A0340188-D632-4FCD-A330-6FFC12275B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0340188-D632-4FCD-A330-6FFC12275B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0340188-D632-4FCD-A330-6FFC12275B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6898FCC1-2354-4F6B-BC8C-1DC9D7797D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6898FCC1-2354-4F6B-BC8C-1DC9D7797D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6898FCC1-2354-4F6B-BC8C-1DC9D7797D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6898FCC1-2354-4F6B-BC8C-1DC9D7797D6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

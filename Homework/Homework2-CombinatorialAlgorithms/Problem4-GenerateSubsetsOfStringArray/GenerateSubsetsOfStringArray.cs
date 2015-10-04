@@ -6,7 +6,6 @@ public class GenerateSubsetsOfStringArray
     {
     
         string[] input = new[] {"test", "rock", "fun"};
-
         int k = 2;
         string[] combination = new string[k];
 
