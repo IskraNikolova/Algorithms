@@ -8,6 +8,7 @@ public class PermutationsWithoutRepetition
     private static int countOfPermutation = 0;
     public static void Main()
     {
+        Console.Write("n=");
         int n = int.Parse(Console.ReadLine());
         var array = Enumerable.Range(1, n).ToArray();
         Permutation(array, 0);
